@@ -1,5 +1,8 @@
-### Hi,Hola,Bonjour,Namaste there .I'am Divyam Joshi👋
+### Hi,Hola,Bonjour,Namaste there .
+### I'am Divyam Joshi👋
+
 <img align="right" src="https://cdn.dribbble.com/users/1008875/screenshots/3674513/explorer.png" width="50%"/>
+
 - 🔭 I’m currently working on GraspApp (education and media App)
 - 🌱 I’m currently learning Google Cloud
 - 👯 I’m looking for exciting internship and  job
