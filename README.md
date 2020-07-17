@@ -13,3 +13,9 @@
 - ⚡ Fun fact: ...
 
 <img src="https://github-readme-stats.vercel.app/api?username=dvmjoshi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+
+
+##
+### Connect with me:
+
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/ProDIVYAM) [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/divyam-joshi-ba0056127) 
