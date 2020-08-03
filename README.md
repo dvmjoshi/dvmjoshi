@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with Grasp APP
 - 💬 Ask me about ...
 - 📫 How to reach me: dvmjoshi7@gmail.com
-- 😄 Pronouns: Jedi Master
+- 😄 You can call me: Jedi Master
 - ⚡ Fun fact: I am Wizard 
 
 <img src="https://github-readme-stats.vercel.app/api?username=dvmjoshi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
