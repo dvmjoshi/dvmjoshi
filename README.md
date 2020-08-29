@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on GraspApp (education and media App)
 - 🌱 I’m currently learning Google Cloud
-- 👯 I’m looking for exciting internship and  job
+- 👯 I’m looking for ?
 - 🤔 I’m looking for help with Grasp APP
 - 💬 Ask me about ...
 - 📫 How to reach me: dvmjoshi7@gmail.com
