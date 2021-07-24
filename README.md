@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I am Wizard 
 
 <img src="https://github-readme-stats.vercel.app/api?username=dvmjoshi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
-
+### <p align="center"><img src="https://komarev.com/ghpvc/?username=dvmjoshi&label=PROFILE+VIEWS&style=flat-square" alt="Divyam" /></p>
 
 ##
 ### Connect with me:
