@@ -4,7 +4,7 @@
 <img align="right" src="https://cdn.dribbble.com/users/1615466/screenshots/3879272/dribbble2.jpg" width="50%"/>
 
 - 🔭 I’m currently working on GraspApp (education and media App)
-- 🌱 I’m currently learning Google Cloud
+- 🌱 I’m currently learning sage justu 🧙🏼‍♂️🧙🏼‍♂
 - 👯 I’m looking for ?
 - 🤔 I’m looking for help with Grasp APP
 - 💬 Ask me about ...
