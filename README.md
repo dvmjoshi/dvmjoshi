@@ -19,3 +19,7 @@
 ### Connect with me:
 
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/ProDIVYAM) [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/divyam-joshi-ba0056127) 
+
+### Thanks to dribbble artist for providing awesome assets for the projects
+
+
