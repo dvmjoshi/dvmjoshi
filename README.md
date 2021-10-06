@@ -1,7 +1,7 @@
 ### Hi,Hola,Bonjour,Namaste there .
 ### I'am Divyam Joshi👋
 
-<img align="right" src="https://cdn.dribbble.com/users/1615466/screenshots/3879272/dribbble2.jpg" width="50%"/>
+<img align="right" src="https://user-images.githubusercontent.com/24698014/136193380-861bdf9a-28c0-498f-979a-a63c77982015.png" width="50%"/>
 
 - 🔭 I’m currently working on GraspApp (education and media App)
 - 🌱 I’m currently learning sage justu 🧙🏼‍♂️🧙🏼‍♂
