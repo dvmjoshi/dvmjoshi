@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on GraspApp (education and media App)
 - 🌱 I’m currently learning sage justu 🧙🏼‍♂️🧙🏼‍♂
-- 👯 I’m looking for opporunities to enhance my skill and learn.
+- 🤖 I’m looking for opporunities to enhance my skill and learn.
 - 🤔 I’m looking for help with Grasp APP
-- 💬 Ask me about ...
+- 💬 Ask me about  world order 
 - 📫 How to reach me: dvmjoshi7@gmail.com
 - 😄 You can call me: Jedi Master
 - ⚡ Fun fact: I am Wizard 
