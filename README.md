@@ -3,10 +3,10 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/24698014/136193380-861bdf9a-28c0-498f-979a-a63c77982015.png" width="50%"/>
 
-- 🔭 I’m currently working on GraspApp (education and media App)
+- 🔭 I’m currently working on Zupay and GraspApp (education and media App)
 - 🌱 I’m currently learning sage justu 🧙🏼‍♂️🧙🏼‍♂
-- 🤖 I’m looking for opporunities to enhance my skill and learn.
-- 🤔 I’m looking for help with Grasp APP
+- 🤖 I’m looking for context of the world through grasp .
+- 🤔 I’m looking for help with Grasp APP for content development 
 - 💬 Ask me about  world order 
 - 📫 How to reach me: dvmjoshi7@gmail.com
 - 😄 You can call me: Jedi Master
